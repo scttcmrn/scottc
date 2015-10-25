@@ -1,5 +1,1 @@
-Testing homework # 3 week 4
-  
-  
-  # scottc
-Scott Cameron's repository
+This repository contains stuff related to ITC 102
