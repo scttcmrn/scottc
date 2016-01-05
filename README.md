@@ -1,1 +1,1 @@
-This repository contains stuff related to ITC 102
+This repository contains stuff related to ITC 110
